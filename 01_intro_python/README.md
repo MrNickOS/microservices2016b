@@ -1,4 +1,4 @@
-ntroducción al lenguaje Python
+Introducción al lenguaje Python
 Universidad ICESI  
 Curso: Sistemas Operativos  
 Docente: Daniel Barragán C.  
