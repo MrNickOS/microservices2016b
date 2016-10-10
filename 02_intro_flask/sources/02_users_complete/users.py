@@ -1,6 +1,6 @@
 from flask import Flask, abort, request
 import json
-from shortcuts import get_all_users, add_user, remove_user
+from users_commands import get_all_users, add_user, remove_user
 app = Flask(__name__)
 api_url = '/v1.0'
 
