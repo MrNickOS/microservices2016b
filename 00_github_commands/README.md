@@ -30,20 +30,25 @@ Existen distintas maneras de conectarse a GitHub a lo largo de las clases emplea
 de tokens. La conexión por medio de tokens no solo permite la interacción de un usuario con repositorios de
 GitHub, sino tambien permite la conexión de aplicaciones directamente con repositorios.
 
-Desde una cuenta de GitHub vaya a perfil, configuraciones, seleccione la opción de token personal
+Desde una cuenta de GitHub vaya a perfil, configuraciones, seleccione la opción de token personal 
+ 
 ![][1]
 
-Seleccione generar token
+Seleccione generar token 
+ 
 ![][2]
 
-Seleccione los permisos necesarios y cree el token
+Seleccione los permisos necesarios y cree el token 
+ 
 ![][3]
 
 Tenga en cuenta nunca compartir su token de forma pública, el token presentado a continuación
-solo tiene fines demostrativos.
+solo tiene fines demostrativos. 
+ 
 ![][4]
 
-Cree un repositorio en GitHub.
+Cree un repositorio en GitHub. 
+ 
 ![][5]
 
 Clone el repositorio de GitHub creado
