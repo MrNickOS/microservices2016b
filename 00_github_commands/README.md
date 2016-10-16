@@ -116,6 +116,3 @@ http://semver.org/
 [4]: images/04_token.png
 [5]: images/05_github_repository.png
 [6]: images/05_github_branch.png
-
-
-9797edcb45bd4680e7770b5b4b370fad7d19dd14
